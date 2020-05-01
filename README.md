@@ -1,2 +1,2 @@
-# -
+# solving_congruence_equations_SYS
 2019程序设计周：一次同余方程组求解系统
